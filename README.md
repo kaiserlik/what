@@ -78,7 +78,7 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 	The Python programming language is very easy to learn (intuitive to the learner), and has an enormous number & variety of packages to choose from (the "swiss army knife").
 		Con(s) : No true parallelism. Only fine-tuning towards asynchronous can help make faster.
 		
-	**Scala** - Like Java but less/more wordy (for an example of wordy please see Java for Android).
+	**Scala** - Like Java but less/more wordy (for an example of wordy "_RefreshAuthorizationPolicyProtocolServerSideTranslatorPB_").
  		An even High(er) level language); Programmability is simplified(towards) / abstracted(away)
 		Con(s) : Lesser amount of user documentation; mainly just the Scala API documents itself.
 		
