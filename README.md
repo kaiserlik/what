@@ -31,7 +31,7 @@ Statistics (Many friendly packages exist aka no Linear Algebra required)
 		
 --- Artificial Intelligence (AI) ---
 
-Statistics, Linear Algebra (the Eigen-vector obsession)
+Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 
 	--- Neural Network ---
 	
