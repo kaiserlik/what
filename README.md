@@ -85,5 +85,5 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 	**Java** - Like Scala but with all the documentation user and official. Best way to learn OOP or Map Reduce (a programming model used in ML).
 		Con(s) : Not as exciting as Scala.
 		
-	**Go** - No true parallelism.
+	**Go** - No true parallelism?
 		Con(s) : Relatively new language on the scene. Not exactly a recommended language for those who just want to learn.
