@@ -25,7 +25,7 @@ Statistics (Many friendly packages exist aka no Linear Algebra required)
 		and collecting more data (including more groups).
 		
 		(Example): Where is Waldo?
-				   Continents (group) <- Countries (subgroups) <- states/provinces (sub-subgroups) <-- (collect data from these)
+			Continents (group) <- Countries (subgroups) <- states/provinces (sub-subgroups) <-- (collect data from these)
 	
 	Python packages (scikit-learn, numpy, pandas)
 		
