@@ -45,7 +45,7 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 			- Reading doctor's handwriting.
 	
 	How? : Same applies here to AI as does with ML on the data collection side. 
-		AI tools like Tensorflow, used with a cloud-based infrastructure (Google GCP, Microsoft Azure, Amason AWs)
+		AI tools like Tensorflow, used with a cloud-based infrastructure (Google GCP, Microsoft Azure, Amason AWS)
 	
 
 --- Programming Languages ---
