@@ -52,7 +52,17 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 
 	--- Popular Types ---
 	
-	- Object Oriented Programming (OOP) - Class (blueprint), Object (house) <- attributes (what it "is" (key characteristics), behavior (what it can "do")
+	- Object Oriented Programming (OOP) - 
+ 		- Class (blueprint)
+   		- Object (house)
+   		- Attributes (address, shade, sqft)
+     		- Behavior (smart house (functions))
+       		- Constructor (the builder)
+
+  		*The three "pillars" of OOP (All code-related) - 
+    			- Inheritance (recycle, reduce, reuse)
+       			- Encapsulation (need to know basis)
+	  		- Polymorphism (versatility))
 	
 		Java, Scala, Python
 	
