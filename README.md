@@ -55,9 +55,9 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
 	- Object Oriented Programming (OOP) - 
  		- Class (blueprint)
    		- Object (house)
-   		- Attributes (address, shade, sqft)
-     		- Behavior (smart house (functions))
-       		- Constructor (the builder)
+     		- Attributes (address, shade, sqft)
+       		- Behavior (smart house (functions))
+	 	- Constructor (the builder)
 
   		*The three "pillars" of OOP [code] - 
     			- Inheritance (recycle, reduce, reuse)
