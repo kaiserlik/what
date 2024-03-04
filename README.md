@@ -62,7 +62,7 @@ Statistics, Linear Algebra (the _[E-word]_-vector obsession)
   		*The three "pillars" of OOP (All code-related) - 
     			- Inheritance (recycle, reduce, reuse)
        			- Encapsulation (need to know basis)
-	  		- Polymorphism (versatility))
+	  			- Polymorphism (versatility))
 	
 		Java, Scala, Python
 	
